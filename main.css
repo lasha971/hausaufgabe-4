@@ -1,4 +1,31 @@
-/*.list{
+.couple{
+	max-width: 355px;
+	display: inline-block;
+	margin-left: 40px;
+	margin-bottom:   40px;
+}
+.color{
+	color: blue;
+}
+.background{
+	background-color: silver;
+	display: inline-block;
+}
+.right{
+	max-width: 355px;
+	display: inline-block;
+
+}
+.linee{
+	margin-left: : 20px;
+border-right-style: solid;
+list-style: none;
+}
+.unline{
+	display: inline-block;
+	list-style: none;
+}
+.list{
 	display: inline-block;
 	list-style: none;
 
@@ -62,7 +89,7 @@ span{
 	margin-left: 20px;
 }
 .margen{
-	margin-top: 50px;
+	margin-top: 50p
 }
 }
 .listt{
@@ -80,5 +107,9 @@ span{
 	width: 103px;
 	padding-bottom: 200px;
 	}
+.alle{
+	display: inline-block;
+	list-style: none;
+	background-color: silver;
+}
 
-*/
